@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<drjava version="drjava-20130901-r5756">
+  <project autorefresh="false" build="Classes/" main="Snake" manifest="" root="" work="">
+    <createjar file="Snake.jar" flags="5"/>
+    <source>
+      <file active="true" name="Menu.java" package="" timestamp="10-Feb-2014 14:25:12">
+        <select from="2374" to="2374"/>
+        <scroll column="1273" row="0"/>
+      </file>
+      <file name="Body.java" package="" timestamp="06-Feb-2014 00:28:10">
+        <select from="2374" to="2374"/>
+        <scroll column="1273" row="0"/>
+      </file>
+      <file name="Food.java" package="" timestamp="06-Feb-2014 07:13:40">
+        <select from="2374" to="2374"/>
+        <scroll column="1273" row="0"/>
+      </file>
+      <file name="ScoreBoard.java" package="" timestamp="09-Feb-2014 00:00:30">
+        <select from="2374" to="2374"/>
+        <scroll column="1273" row="0"/>
+      </file>
+      <file name="Board.java" package="" timestamp="10-Feb-2014 14:23:46">
+        <select from="2374" to="2374"/>
+        <scroll column="1273" row="0"/>
+      </file>
+      <file name="Snake.java" package="" timestamp="10-Feb-2014 14:25:28">
+        <select from="2374" to="2374"/>
+        <scroll column="1273" row="0"/>
+      </file>
+    </source>
+    <included/>
+    <excluded/>
+    <collapsed/>
+    <classpath/>
+    <breakpoints/>
+    <watches/>
+    <bookmarks/>
+    <preferences/>
+  </project>
+</drjava>
